@@ -1,0 +1,6 @@
+c:\users\jgilbert\documents\visual studio 2013\Projects\OperationParameterCheck\OperationParameterCheck\bin\Debug\OperationParameterCheck.exe.config
+C:\Users\jgilbert\Documents\Visual Studio 2013\Projects\OperationParameterCheck\OperationParameterCheck\bin\Debug\OperationParameterCheck.exe
+C:\Users\jgilbert\Documents\Visual Studio 2013\Projects\OperationParameterCheck\OperationParameterCheck\bin\Debug\OperationParameterCheck.pdb
+C:\Users\jgilbert\Documents\Visual Studio 2013\Projects\OperationParameterCheck\OperationParameterCheck\obj\Debug\OperationParameterCheck.exe
+C:\Users\jgilbert\Documents\Visual Studio 2013\Projects\OperationParameterCheck\OperationParameterCheck\obj\Debug\OperationParameterCheck.pdb
+C:\Users\jgilbert\Documents\Visual Studio 2013\Projects\OperationParameterCheck\OperationParameterCheck\obj\Debug\OperationParameterCheck.csprojResolveAssemblyReference.cache
